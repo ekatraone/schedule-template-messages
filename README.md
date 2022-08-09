@@ -1,3 +1,18 @@
+<h1 align="center">ekatra.one</h1>
+
+🏠[Homepage](https://github.com/vruksheco/ekatraone)
+
+
+• [**Ekatra**](https://www.ekatra.one/) is the first low data / no data learning platform. 
+>
+• Ekatra helps institutions create, deploy, and assess text message-based micro-courses that dramatically improve learning and training. 
+>
+• Our learning platform helps such organizations focused on career readiness for underserved high schoolers to teach them important job and life skills
+
+• Learn more about Ekatra here: https://www.ekatra.one/  
+
+---
+
 <h1 align="center">Welcome to Schedule Template Messages 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
@@ -14,11 +29,17 @@
   <a href="https://github.com/ekatraone/schedule-template-messages/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
+    <a href="https://twitter.com/ekatraone" target="_blank">
+    <img alt="Twitter: @ekatraone" src="https://img.shields.io/twitter/follow/ekatraone.svg?style=social" />
+  </a>
   <a href="https://twitter.com/ramshaa_shaikh" target="_blank">
     <img alt="Twitter: @ramshaa_shaikh" src="https://img.shields.io/twitter/follow/ramshaa_shaikh.svg?style=social" />
   </a>
+
 </p>
 
+>
+>
 > **Schedule Template message** is Node.js based cron job program that helps you send schedule messages to users on different channels.
 > 
 >This repository explains how to send template messages to users daily on WhatsApp & Telegram channels at a specific time.
@@ -117,6 +138,11 @@ Now let's learn how to create a Template Message.
 * Twitter: [@ramshaa_shaikh](https://twitter.com/ramshaa_shaikh)
 * Github: [@ramshashaikh](https://github.com/ramshashaikh)
 * LinkedIn: [@ramsha-shaikh](https://www.linkedin.com/in/ramsha-shaikh/)
+
+🏢 **Ekatra Learning, Inc.**
+* Website: https://www.ekatra.one/
+* Twitter: [@ekatraone](https://twitter.com/ekatraone)
+* Github: [@ekatraone](https://github.com/ekatraone)
 
 
 ## 🤝 Contributing
