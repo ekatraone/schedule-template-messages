@@ -20,9 +20,12 @@ Welcome to the FREE business training program - WomenWill!
 Click below to start.`
         const opts = {
             reply_markup: {
-                keyboard: [
+                inline_keyboard: [
                     [
-                        "Start"
+                        {
+                            text: "Start",
+                            callback_data: 'Start'
+                        }
                     ]
                 ],
                 one_time_keyboard: true,
